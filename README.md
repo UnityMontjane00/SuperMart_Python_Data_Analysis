@@ -46,6 +46,7 @@ The analysis went beyond these headline figures to investigate what was driving 
 
 ## Project Workflow
 
+```text
 Business Problem
       ↓
 Data Cleaning
@@ -57,6 +58,7 @@ Visualisation
 Business Insights
       ↓
 Recommendations
+```
 
 # What This Project Demonstrates
 
@@ -71,6 +73,12 @@ This project forms part of my broader Data Analytics portfolio:
 ## Excel → SQL → Python → Power BI
 
 Each project demonstrates a different stage of working with business data.
+
+
+
+
+
+
 
 
 
