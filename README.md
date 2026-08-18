@@ -4,7 +4,7 @@
 
 The SuperMart Python Data Analysis project explores supermarket sales data to understand business performance and identify opportunities for improvement.
 
-The goal was not just to analyse numbers, but to turn data into **clear business insights that can support better decisions**.
+The goal was not just to analyse numbers, but to turn data into clear business insights that can support better decisions.
 
 ## What I Analysed
 
@@ -31,7 +31,7 @@ I used Python to:
 
 ## Key Result
 
-SuperMart generated approximately **R2.51 million in net revenue** and **R694,697 in profit**, with an overall profit margin of approximately **27.6%**.
+SuperMart generated approximately R2.51 million in net revenue and R694,697 in profit, with an overall profit margin of approximately 27.6%.
 
 The analysis went beyond these headline figures to investigate what was driving business performance and where management could focus its attention.
 
@@ -46,7 +46,6 @@ The analysis went beyond these headline figures to investigate what was driving 
 
 ## Project Workflow
 
-```text
 Business Problem
       ↓
 Data Cleaning
@@ -65,11 +64,11 @@ This project demonstrates my ability to use Python to analyse business data, ide
 
 The complete analysis is available in the Jupyter Notebook.
 
-# Portfolio Context
+## Portfolio Context
 
 This project forms part of my broader Data Analytics portfolio:
 
-# Excel → SQL → Python → Power BI
+## Excel → SQL → Python → Power BI
 
 Each project demonstrates a different stage of working with business data.
 
