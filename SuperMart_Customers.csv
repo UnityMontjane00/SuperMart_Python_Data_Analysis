@@ -1,0 +1,51 @@
+CustomerID,FirstName,LastName,Region,City,Country,Phone,Email
+1001,John,Smith,Eastern Cape,Durban,South Africa,,john.smith@email.com
+1002,Jane,Williams,Free State,Durban,South Africa,0893139152,jane.williams@email.com
+1003,Michael,Brown,KwaZulu-Natal,Durban,South Africa,0854054178,michael.brown@email.com
+1004,Mary,Jones,Free State,Gqeberha,South Africa,0848334882,mary.jones@email.com
+1005,Joseph,Taylor,Free State,Cape Town,South Africa,0862441466,joseph.taylor@email.com
+1006,Mandla,Zulu,Western Cape,Bloemfontein,South Africa,0859583876,mandla.zulu@email.com
+1007,Melissa,Naidoo,KwaZulu-Natal,Johannesburg,South Africa,0896117865,melissa.naidoo@email.com
+1008,Peter,Parker,KwaZulu-Natal,Durban,South Africa,0873203558,peter.parker@email.com
+1009,Sarah,Connor,KwaZulu-Natal,Pretoria,South Africa,0847407771,sarah.connor@email.com
+1010,David,Mokoena,Free State,Durban,South Africa,0893122310,david.mokoena@email.com
+1011,Thabo,Mthembu,Eastern Cape,Pretoria,South Africa,0837009224,thabo.mthembu@email.com
+1012,Lerato,Dlamini,KwaZulu-Natal,Bloemfontein,South Africa,,lerato.dlamini@email.com
+1013,Sipho,Nkosi,Free State,Bloemfontein,South Africa,0861327755,sipho.nkosi@email.com
+1014,Naledi,Molefe,Western Cape,Bloemfontein,South Africa,0889018913,naledi.molefe@email.com
+1015,James,Johnson,Eastern Cape,Pretoria,South Africa,0817130144,james.johnson@email.com
+1016,Aisha,Khan,Western Cape,Durban,South Africa,0814545583,aisha.khan@email.com
+1017,Daniel,Miller,Eastern Cape,Bloemfontein,South Africa,0864079037,daniel.miller@email.com
+1018,Nomsa,Ndlovu,Free State,Gqeberha,South Africa,0864474455,nomsa.ndlovu@email.com
+1019,Brian,Anderson,Gauteng,Pretoria,South Africa,0851542436,brian.anderson@email.com
+1020,Zanele,Maseko,Eastern Cape,Pretoria,South Africa,0856626914,zanele.maseko@email.com
+1021,Chris,Adams,Western Cape,Durban,South Africa,0863933927,chris.adams@email.com
+1022,Amanda,Peters,Free State,Pretoria,South Africa,0862453338,amanda.peters@email.com
+1023,Kabelo,Mabena,Eastern Cape,Pretoria,South Africa,,kabelo.mabena@email.com
+1024,Linda,Williams,Gauteng,Bloemfontein,South Africa,0824881728,linda.williams@email.com
+1025,Samuel,Brown,Gauteng,Durban,South Africa,0844045666,samuel.brown@email.com
+1026,Tebogo,Molefe,KwaZulu-Natal,Bloemfontein,South Africa,0822722094,tebogo.molefe@email.com
+1027,Grace,Jones,KwaZulu-Natal,Bloemfontein,South Africa,0832178434,grace.jones@email.com
+1028,Ethan,Smith,Western Cape,Durban,South Africa,0856321408,ethan.smith@email.com
+1029,Mpho,Dube,Eastern Cape,Johannesburg,South Africa,0822796932,mpho.dube@email.com
+1030,Olivia,Johnson,Eastern Cape,Bloemfontein,South Africa,0884023414,olivia.johnson@email.com
+1031,Neo,Mokoena,KwaZulu-Natal,Gqeberha,South Africa,0836063245,neo.mokoena@email.com
+1032,Emma,Williams,Eastern Cape,Gqeberha,South Africa,0849443226,emma.williams@email.com
+1033,Liam,Taylor,Eastern Cape,Pretoria,South Africa,0883619289,liam.taylor@email.com
+1034,Ayanda,Ndlovu,Gauteng,Gqeberha,South Africa,,ayanda.ndlovu@email.com
+1035,Noah,Brown,KwaZulu-Natal,Pretoria,South Africa,0817887739,noah.brown@email.com
+1036,Palesa,Maseko,Free State,Johannesburg,South Africa,0870736972,palesa.maseko@email.com
+1037,Lucas,Pillay,KwaZulu-Natal,Durban,South Africa,0871071026,lucas.pillay@email.com
+1038,Karabo,Nkosi,Free State,Durban,South Africa,0810769598,karabo.nkosi@email.com
+1039,Mia,Jones,Gauteng,Durban,South Africa,0899178975,mia.jones@email.com
+1040,Sibusiso,Dlamini,Western Cape,Gqeberha,South Africa,0859007334,sibusiso.dlamini@email.com
+1041,Ryan,Anderson,Eastern Cape,Johannesburg,South Africa,0838433648,ryan.anderson@email.com
+1042,Leah,Smith,Gauteng,Gqeberha,South Africa,0817971379,leah.smith@email.com
+1043,Jason,Miller,Eastern Cape,Gqeberha,South Africa,0813331068,jason.miller@email.com
+1044,Nandi,Zulu,Western Cape,Johannesburg,South Africa,0846810847,nandi.zulu@email.com
+1045,Ethan,Parker,Western Cape,Johannesburg,South Africa,,ethan.parker@email.com
+1046,Boitumelo,Molefe,Gauteng,Johannesburg,South Africa,0844428803,boitumelo.molefe@email.com
+1047,Luke,Dube,Western Cape,Johannesburg,South Africa,0815654237,luke.dube@email.com
+1048,Precious,Naidoo,Free State,Durban,South Africa,0871553124,precious.naidoo@email.com
+1049,Daniel,Johnson,Western Cape,Cape Town,South Africa,0855816038,daniel.johnson@email.com
+1050,Ruth,Mthembu,Eastern Cape,Cape Town,South Africa,0827750764,ruth.mthembu@email.com
